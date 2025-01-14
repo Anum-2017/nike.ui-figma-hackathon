@@ -12,7 +12,7 @@ import { Button } from '../../components/ui/button';
 
 const Page = () => {
   return (
-    <div className="flex flex-col items-center">
+    <div className="flex flex-col items-center px-10 md:px-0">
       <h2 className="uppercase text-xl font-bold mt-8">Get Help</h2>
 
       {/* Search Bar */}
