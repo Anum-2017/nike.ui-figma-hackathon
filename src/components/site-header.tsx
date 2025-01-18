@@ -15,8 +15,8 @@ import {
 import  Input  from '@/components/ui/input';
 
 const navItems = [
-  { href: '#', label: 'New & Featured' },
-  { href: '/all-products', label: 'Men' },
+  { href: '/all-products', label: 'New & Featured' },
+  { href: '#', label: 'Men' },
   { href: '#', label: 'Women' },
   { href: '#', label: 'Kids' },
   { href: '#', label: 'Sale', className: 'text-red-500 font-bold' },
